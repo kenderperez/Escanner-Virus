@@ -11,4 +11,6 @@ esperar...<br>
 
 
 <img src='https://i.imgur.com/1QbSspn.png'></img><br>
-<img src="http://imgur.com/TXovsscl.png" />
+
+<img src='https://i.imgur.com/TXovssc.png'></img><br>
+

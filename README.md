@@ -7,5 +7,7 @@ cd Escanner-Virus<br>
 
 El archivo a escanear debe estar en la carpeta Escanner-Virus<br>
 ingresar el nombre del archivo ejemplo: archivo.exe<br>
-esperar...
+esperar...<br>
+
+
 <img src='https://i.imgur.com/1QbSspn.png'></img>

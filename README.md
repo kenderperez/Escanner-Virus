@@ -10,4 +10,5 @@ ingresar el nombre del archivo ejemplo: archivo.exe<br>
 esperar...<br>
 
 
-<img src='https://i.imgur.com/1QbSspn.png'></img>
+<img src='https://i.imgur.com/1QbSspn.png'></img><br>
+<img src="http://imgur.com/TXovsscl.png" />
